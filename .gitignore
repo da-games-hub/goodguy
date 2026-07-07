@@ -1,0 +1,4 @@
+# local dev snapshots — git history is the backup now
+*.bak*
+.DS_Store
+frame-review.html
